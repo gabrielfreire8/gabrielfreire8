@@ -127,4 +127,4 @@
 
 </p>
 
-![Snake animation](https://github.com/gabrielfreire8)
+![Snake animation](https://github.com/gabrielfreire8/gabrielfreire8/blob/output/github-cintribution-grid-snake.svg)
