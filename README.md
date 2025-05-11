@@ -127,4 +127,4 @@
 
 </p>
 
-![Snake animation]([gabrielfreire8](https://github.com/gabrielfreire8))
+![Snake animation](https://github.com/gabrielfreire8)
