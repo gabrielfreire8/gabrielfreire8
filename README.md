@@ -1,6 +1,17 @@
-# 👩🏻‍💻 Gabriel Freire
+# 👩🏻‍💻 Gabriel Freire  -    **`Desenvolvedor Full-Stack`**
 
-**`Desenvolvedor Full-Stack`**
+Ola, meu nome é Gabriel Marcos Freire,um entusiasta da tecnologia em constante evolução, estudande de Ciência da Computação na universidade UNIFEOB, onde mergulho em algoritmos, estruturas de dados e soluções inovadoras.
+
+🔧 Minha Jornada:
+
+Backend: Minha paixão! Adoro construir sistemas robustos, APIs escaláveis e trabalhar com bancos de dados (SQL/NoSQL).
+
+Frontend: Também me aventuro no desenvolvimento de interfaces modernas com Angular, HTML/CSS e JavaScript.
+
+Objetivo: Unir o melhor dos dois mundos para criar aplicações completas, eficientes e com ótima experiência de usuário.
+
+
+##
 
  
 
