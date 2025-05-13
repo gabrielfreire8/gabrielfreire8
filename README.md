@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Freire  -    **`Desenvolvedor Full-Stack`**
 
-Ola, meu nome é Gabriel Marcos Freire , sou um entusiasta da tecnologia em constante evolução, estudande de Ciência da Computação na universidade UNIFEOB, onde mergulho em algoritmos, estruturas de dados e soluções inovadoras.
+Ola, meu nome é Gabriel Marcos Freire , sou um entusiasta da tecnologia em constante evolução, estudante de Ciência da Computação na universidade UNIFEOB, onde mergulho em algoritmos, estruturas de dados e soluções inovadoras.
 
 🔧 Minha Jornada:
 
