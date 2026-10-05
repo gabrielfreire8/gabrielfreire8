@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação | Infraestrutura de TIC | Redes & CyberOps | Linux Kernel & Cloud**
 
-📍 São João da Boa Vista - SP  
+📍 Tambaú - SP  
 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-marcos-freire-2b5433275) | 📜 [Currículo Lattes](http://lattes.cnpq.br/4730648184146507) | ✉️ gabrielmfreire2506@gmail.com
 
 ---
