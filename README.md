@@ -1,145 +1,57 @@
-# 👩🏻‍💻 Gabriel Freire  -    **`Desenvolvedor Full-Stack`**
+# 👨🏻‍💻 Gabriel Marcos Freire
 
-Ola, meu nome é Gabriel Marcos Freire , sou um entusiasta da tecnologia em constante evolução, estudante de Ciência da Computação na universidade UNIFEOB, onde mergulho em algoritmos, estruturas de dados e soluções inovadoras.
+**Estudante de Ciência da Computação | Infraestrutura de TIC | Redes & CyberOps | Linux Kernel & Cloud**
 
-🔧 Minha Jornada:
-
-Backend: Minha paixão! Adoro construir sistemas robustos, APIs escaláveis e trabalhar com bancos de dados (SQL/NoSQL).
-
-Frontend: Também me aventuro no desenvolvimento de interfaces modernas com Angular, HTML/CSS e JavaScript.
-
-Objetivo: Unir o melhor dos dois mundos para criar aplicações completas, eficientes e com ótima experiência de usuário.
-
-
-##
-
- 
-
-
-
-<br>
-
-<p align="left">
-
-<div> 
-  <a href="https://www.instagram.com/gafreire__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "gabrielmfreire2506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-marcos-freire-2b5433275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
-  
----
-
-### 🤖 Linguagens e Tecnologias
-<br>
-
-<img
- align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img
- align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img 
- align="left" 
-    alt="Flask"
-    title="Flask" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-/>
-<img
-  align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img
-  align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
-
-
-
-
-    
-
-
-
-
-<br/>
+📍 São João da Boa Vista - SP  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-marcos-freire-2b5433275) | 📜 [Currículo Lattes](http://lattes.cnpq.br/4730648184146507) | ✉️ gabrielmfreire2506@gmail.com
 
 ---
 
-### 📊 Estatísticas
+### 🚀 Sobre Mim
 
-<p>
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="170" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=gabrielfreire8&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" 
-/>
+Sou acadêmico de Ciência da Computação na **UNIFEOB** com foco em **Infraestrutura de TI, Segurança Corporativa e Arquitetura de Redes**. Tenho experiência prática em suporte e gestão de incidentes N1/N2, redes de fibra óptica (FTTH), roteamento/comutação Cisco e administração de sistemas Linux.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfreire8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+Atualmente, desenvolvo pesquisas científicas internacionais em cibersegurança ativa focadas no **Kernel do Linux (eBPF)** e otimização de arquiteturas **Zero Trust / Service Mesh em Microserviços na Nuvem (Kubernetes)**.
 
+---
+
+### 🛠️ Stacks & Tecnologias
+
+- **Redes & Segurança:** Cisco IOS, CCNA (Routing, Switching & Wireless), Firewalls (ACLs/NAT), Wireshark, VPNs, Modelo OSI / TCP/IP.
+- **Sistemas & Kernel:** Linux (Debian/Ubuntu/RHEL), eBPF, BCC, Syscalls, C, Python, Shell Script / Bash.
+- **Cloud & DevOps (Em Expansão):** AWS (Cloud Practitioner), Google Cloud (GCP), Kubernetes, Microserviços, mTLS / Service Mesh.
+- **Gestão & Suporte:** ITSM, Resolução de Incidentes N1/N2, Atendimento sob SLAs rigorosos.
+
+---
+
+### 🔬 Pesquisas & Projetos em Destaque
+
+| Projeto | Descrição & Tecnologias |
+| :--- | :--- |
+| **Detecção e Mitigação de Ransomware com eBPF** | Sensores de Kernel em **C**, **Python** e **BCC** para hooking de syscalls de I/O em tempo real. Resposta em milissegundos com overhead sistêmico reduzido (<5% CPU). |
+| **Overhead de Service Mesh Zero Trust em Kubernetes** | Artigo Científico (UNIGOU/INCBAC) analisando throughput, latência e CPU sob mTLS. Estudo de mitigação via bypass de kernel (eBPF) e offloading para DPUs/SmartNICs. |
+| **Segmentação de Perímetro e Firewalling no Packet Tracer** | Topologia corporativa em 3 Zonas (LAN, DMZ, WAN) utilizando Cisco ISR4331, NAT Estático/PAT, ACLs estendidas e Serviços Web/DNS. |
+
+---
+
+### 📜 Certificações & Formação
+
+- 🎓 **Bacharelado em Ciência da Computação** — UNIFEOB (2023 - Cursando)
+- 🌐 **CCNA v7: Switching, Routing and Wireless Essentials** — Cisco Networking Academy (72h)
+- 🛡️ **Junior Cybersecurity Analyst** — Cisco Networking Academy (120h)
+- ☁️ **AWS Cloud Practitioner Foundational** — SENAI (40h)
+- ☁️ **Google Cloud Foundations / Security** — Google (Cursando)
+- 🇬🇧 **Inglês** — PrimeWay (Cursando)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielfreire8&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfreire8&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Languages" height="175"/>
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfreire8/gabrielfreire8/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfreire8/gabrielfreire8/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielfreire8/gabrielfreire8/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+📫 *Aberto a conexões, projetos acadêmicos e oportunidades em Infraestrutura, Cloud Analyst, DevOps e Segurança Cibernética!*
